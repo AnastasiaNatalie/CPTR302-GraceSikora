@@ -1,0 +1,30 @@
+commit 7da9f3598ffe36987ef594d13fa0680685256f24
+Merge: 0d788c1 739a39b
+Author: Grace Sikora <gracevsikora@gmail.com>
+Date:   Tue Feb 27 18:36:44 2024 -0500
+
+    Resolve conflicts in merge
+
+commit 739a39b3d24d93d21be434cfcb8443024eaff048
+Author: Grace Sikora <gracevsikora@gmail.com>
+Date:   Tue Feb 27 18:34:39 2024 -0500
+
+    Modify file in work2 branch
+
+commit 0d788c1b605730b35ce24b7e2c568539161d3b4a
+Author: Grace Sikora <gracevsikora@gmail.com>
+Date:   Tue Feb 27 18:29:19 2024 -0500
+
+    Modify file in work1 branch
+
+commit a064b15a8cf2083b23464db42ce0815266fcaa8a
+Author: Grace Sikora <gracevsikora@gmail.com>
+Date:   Tue Feb 27 18:24:40 2024 -0500
+
+    Changed Five to 5
+
+commit 5f02ba0920d686cfefac967fcd1e6096277db4f5
+Author: Grace Sikora <gracevsikora@gmail.com>
+Date:   Tue Feb 27 15:35:19 2024 -0500
+
+    Add SomethingImportant.txt
